@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = "FeloRecognition"
+  spec.name         = "FeloRecognitionSDK"
   spec.version      = "1.0.0"
   spec.summary      = "An Objective-C client for Speech Recognition service"
 
