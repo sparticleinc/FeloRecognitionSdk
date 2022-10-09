@@ -4,13 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/FeloNetWorkUtils.h</key>
+		<data>
+		5is1S8ZJFLCX/wISl+XQ/RulkOQ=
+		</data>
 		<key>Headers/FeloRecognition.h</key>
 		<data>
-		gqW8li2IBLVO+W17hpKbiQ+R3fg=
+		vMnj0IgIJFrFyTiGgWbxZr+OkeE=
 		</data>
 		<key>Headers/SpeechRecognModel.h</key>
 		<data>
-		XlL8FtqRBLgnNx91IuTqN2qmzFA=
+		NLSULF2fM/lqMDvDIqmGIj8uEdU=
+		</data>
+		<key>Headers/SpeechRecognProtocol.h</key>
+		<data>
+		7ct5EukYpn3XTm/KM15O7Qw+D90=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -23,18 +31,32 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/FeloNetWorkUtils.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3Jk2HYd7vfdHdDwM/WrqCPq1oKDuEmIGGb40zmY+eRU=
+			</data>
+		</dict>
 		<key>Headers/FeloRecognition.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sfDqXTbUx3gBJ4KNXUDpZICgLKLLUo8aoTiL3B97ro0=
+			Ol0BPaqqj59r0myf92KcNNjDGbHCt/obaVs/catceQQ=
 			</data>
 		</dict>
 		<key>Headers/SpeechRecognModel.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dgY8NHoUZTyDxnPy2qRnskB6PBQu252bO6A/fo0YyCU=
+			86A74tpTJchYyESdUrFX/u81NddbMS3kzUSiHgeTELg=
+			</data>
+		</dict>
+		<key>Headers/SpeechRecognProtocol.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NgvuUoTBYCpt0iWWHta1QjJZjhL/3mQrqU62KsdAjT8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

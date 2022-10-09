@@ -7,6 +7,8 @@
 
 #import <Foundation/Foundation.h>
 #import "SpeechRecognModel.h"
+#import "SpeechRecognProtocol.h"
+#import "FeloNetWorkUtils.h"
 FOUNDATION_EXPORT double FeloRecognitionVersionNumber;
 
 FOUNDATION_EXPORT const unsigned char FeloRecognitionVersionString[];
