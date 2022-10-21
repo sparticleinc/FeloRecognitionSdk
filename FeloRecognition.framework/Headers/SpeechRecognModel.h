@@ -31,6 +31,7 @@ typedef void (^RreshAccessTokenBlock)(BOOL expired);
 @property (copy,nonatomic)RreshAccessTokenBlock refreshBlock;
 @property (weak,nonatomic) id<FeloSubtitleDelegate> delegate;
 @property (strong,nonatomic) NSString *authToken;
+
 /// start subtitle
 /// - Parameters:
 ///   - params: params contian appid,accesstoken
