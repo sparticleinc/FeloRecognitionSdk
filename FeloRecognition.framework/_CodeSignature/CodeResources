@@ -10,15 +10,11 @@
 		</data>
 		<key>Headers/FeloRecognition.h</key>
 		<data>
-		vMnj0IgIJFrFyTiGgWbxZr+OkeE=
+		xY0aJeWWYr5CechShJPT6u0udHE=
 		</data>
 		<key>Headers/SpeechRecognModel.h</key>
 		<data>
 		z4qIbOPENCnZYn0sABtnj23AYU8=
-		</data>
-		<key>Headers/SpeechRecognProtocol.h</key>
-		<data>
-		7ct5EukYpn3XTm/KM15O7Qw+D90=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -42,7 +38,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ol0BPaqqj59r0myf92KcNNjDGbHCt/obaVs/catceQQ=
+			cDOU3HJ+TOJQBS4HVLKTMujAFlZijMzHDIpTFoMUdoU=
 			</data>
 		</dict>
 		<key>Headers/SpeechRecognModel.h</key>
@@ -50,13 +46,6 @@
 			<key>hash2</key>
 			<data>
 			XInsQdOUuizehUYNy4vWEamkOep6MUDgPkjST81GSQw=
-			</data>
-		</dict>
-		<key>Headers/SpeechRecognProtocol.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NgvuUoTBYCpt0iWWHta1QjJZjhL/3mQrqU62KsdAjT8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
