@@ -4,13 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/FeloNetWorkUtils.h</key>
-		<data>
-		X8tNpUFEzx82RNrkA1tmm2pShG8=
-		</data>
 		<key>Headers/FeloRecognition.h</key>
 		<data>
-		xY0aJeWWYr5CechShJPT6u0udHE=
+		gIL+eml8g4wvnp/i6zWa1DkfbAo=
+		</data>
+		<key>Headers/FeloSubtitleNetWorkUtils.h</key>
+		<data>
+		HQJbEqX21VtbqhjZ+ix9XKjpGEo=
 		</data>
 		<key>Headers/SpeechRecognModel.h</key>
 		<data>
@@ -27,18 +27,18 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/FeloNetWorkUtils.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qTiBVVQmyDwtgKDZ3qP+mgn4Ylo2xCkyh1dL2zkjhAU=
-			</data>
-		</dict>
 		<key>Headers/FeloRecognition.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cDOU3HJ+TOJQBS4HVLKTMujAFlZijMzHDIpTFoMUdoU=
+			QabNziWXk3TFnBOvZIFnpXMsBSW4erED6iTZtP8e4/w=
+			</data>
+		</dict>
+		<key>Headers/FeloSubtitleNetWorkUtils.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cX6ILoxBMOSigw4D1VacqQrhNx0EzF1V/ZqsILU6O58=
 			</data>
 		</dict>
 		<key>Headers/SpeechRecognModel.h</key>

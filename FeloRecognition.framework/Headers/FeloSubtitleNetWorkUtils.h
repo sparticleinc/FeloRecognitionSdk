@@ -1,5 +1,5 @@
 //
-//  FeloNetWorkUtils.h
+//  FeloSubtitleNetWorkUtils.h
 //  FeloRecognition
 //
 //  Created by lee on 2022/9/7.
@@ -7,15 +7,15 @@
 
 #import <Foundation/Foundation.h>
 
-//@protocol FeloNetWorkUtilsDelegate<NSObject>
+//@protocol FeloSubtitleNetWorkUtilsDelegate<NSObject>
 //@required
 //- (void)tokenIsExpired:(BOOL)isExpired;
 //@end
 
-@interface FeloNetWorkUtils : NSObject
+@interface FeloSubtitleNetWorkUtils : NSObject
 +(instancetype)manager;
 
-//@property(weak,nonatomic)id<FeloNetWorkUtilsDelegate> delegate;
+//@property(weak,nonatomic)id<FeloSubtitleNetWorkUtilsDelegate> delegate;
 
 @property(strong,nonatomic) NSString *appId;
 @property(strong,nonatomic) NSString *authToken;
