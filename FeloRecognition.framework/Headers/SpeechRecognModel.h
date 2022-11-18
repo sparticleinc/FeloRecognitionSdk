@@ -4,8 +4,6 @@
 //
 //  Created by Felo on 2021/12/5.
 //  Copyright © 2022 Sparticle inc. All rights reserved.
-//
-
 #import <Foundation/Foundation.h>
 typedef void(^RfreshTokenBlock)(NSString *) ;
 typedef void (^RreshAccessTokenBlock)(BOOL expired);
@@ -16,9 +14,6 @@ typedef void (^RreshAccessTokenBlock)(BOOL expired);
 - (void)reconnectedServer;
 @required
 - (void)getSubtitle:(NSDictionary *)subTitle;
-/// call when refresh token is expired
-/// - Parameter refreshBlock: refreshBlock description
-//- (void)refreshToken:(void(^)(NSString *))refreshBlock;
 
 @end
 
@@ -38,6 +33,11 @@ typedef void (^RreshAccessTokenBlock)(BOOL expired);
 ///   - completeHandler: completeHandler description
 - (void)startSubtitle:(NSMutableDictionary *)params completeHandler:(void (^)(BOOL))completeHandler;
 
+/// start transcribing
+- (void)startTranscribing:(void(^)(BOOL))completeHandler;
+
+/// stop transcribing
+- (void)stopTranscribing:(void(^)(BOOL))completeHandler;
 /// leave room
 /// - Parameters:
 ///   - completeHandler: completeHandler description

@@ -7,11 +7,6 @@
 
 #import <Foundation/Foundation.h>
 
-//@protocol FeloSubtitleNetWorkUtilsDelegate<NSObject>
-//@required
-//- (void)tokenIsExpired:(BOOL)isExpired;
-//@end
-
 @interface FeloSubtitleNetWorkUtils : NSObject
 +(instancetype)manager;
 
